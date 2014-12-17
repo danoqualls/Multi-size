@@ -26,6 +26,8 @@
 		306F6AA41A40B7C900F0901E /* syrah bottle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 306F6AA31A40B7C900F0901E /* syrah bottle.jpg */; };
 		306F6AA61A40BC0500F0901E /* white.png in Resources */ = {isa = PBXBuildFile; fileRef = 306F6AA51A40BC0500F0901E /* white.png */; };
 		306F6AA81A41E9D900F0901E /* ribbon-blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 306F6AA71A41E9D900F0901E /* ribbon-blank.png */; };
+		306F6AAB1A4226B900F0901E /* Red arrow down.png in Resources */ = {isa = PBXBuildFile; fileRef = 306F6AA91A4226B900F0901E /* Red arrow down.png */; };
+		306F6AAC1A4226B900F0901E /* Red arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 306F6AAA1A4226B900F0901E /* Red arrow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +66,8 @@
 		306F6AA31A40B7C900F0901E /* syrah bottle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "syrah bottle.jpg"; sourceTree = "<group>"; };
 		306F6AA51A40BC0500F0901E /* white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white.png; sourceTree = "<group>"; };
 		306F6AA71A41E9D900F0901E /* ribbon-blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ribbon-blank.png"; sourceTree = "<group>"; };
+		306F6AA91A4226B900F0901E /* Red arrow down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red arrow down.png"; sourceTree = "<group>"; };
+		306F6AAA1A4226B900F0901E /* Red arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red arrow.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 				306F6A911A3FDF1D00F0901E /* arrow icon.png */,
 				306F6A921A3FDF1D00F0901E /* home icon.png */,
 				306F6AA51A40BC0500F0901E /* white.png */,
+				306F6AA91A4226B900F0901E /* Red arrow down.png */,
+				306F6AAA1A4226B900F0901E /* Red arrow.png */,
 				306F6AA71A41E9D900F0901E /* ribbon-blank.png */,
 				306F6A931A3FDF1D00F0901E /* red.png */,
 				306F6A941A3FDF1D00F0901E /* Button red.png */,
@@ -238,6 +244,7 @@
 				306F6A9F1A3FDF1D00F0901E /* Button white.png in Resources */,
 				306F6AA81A41E9D900F0901E /* ribbon-blank.png in Resources */,
 				306F6A771A3FDEB600F0901E /* Main.storyboard in Resources */,
+				306F6AAB1A4226B900F0901E /* Red arrow down.png in Resources */,
 				306F6AA21A3FDF1D00F0901E /* grey.png in Resources */,
 				306F6A9A1A3FDF1D00F0901E /* arrow icon.png in Resources */,
 				306F6AA11A3FDF1D00F0901E /* Light grey.png in Resources */,
@@ -245,6 +252,7 @@
 				306F6A7C1A3FDEB600F0901E /* LaunchScreen.xib in Resources */,
 				306F6A9E1A3FDF1D00F0901E /* Very light grey.png in Resources */,
 				306F6AA41A40B7C900F0901E /* syrah bottle.jpg in Resources */,
+				306F6AAC1A4226B900F0901E /* Red arrow.png in Resources */,
 				306F6A9C1A3FDF1D00F0901E /* red.png in Resources */,
 				306F6A9B1A3FDF1D00F0901E /* home icon.png in Resources */,
 				306F6A9D1A3FDF1D00F0901E /* Button red.png in Resources */,
